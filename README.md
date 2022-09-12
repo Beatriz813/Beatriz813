@@ -1,10 +1,18 @@
-# Hi there, I'm Beatriz Alcantara
+# Beatriz Alcântara
 
-Currently I'm developer intern at W3AS. I work developing Front-end and Back-end projects with Vue and ASP.NET Core stacks.
+Atualmente estou trabalhando na empresa W3AS com desenvolvedora de software.
+Estou tendo oportunidade de trabalhar com:
+- .Net core e .Net 6
+- MongoDB
+- Kafka e RabbitMQ
+- SQL Server
+- Docker
+- GIT
+- DDD
 
-:bulb: Learning now: DDD, TDD, Graphql
+:bulb: Aprendendo agora: Kubernetes, Kafka e RabbitMQ
 
-:heavy_check_mark: Already know: Vuejs, Cordova, Quasar Framework, JavaScript Concepts, ASP.NET
+:heavy_check_mark: Já sei: Vuejs, Cordova, Quasar Framework, JavaScript Concepts, ASP.NET, .NET, SQL Server.
 
 ## Languages and Knowledges
   <div>
