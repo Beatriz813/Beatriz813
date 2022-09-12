@@ -29,3 +29,8 @@
     <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
                                
   </div>
+
+### :telephone_receiver: Contatos 
+<img width=17 height=17 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />	[LinkedIn](https://www.linkedin.com/in/beatrizalcantaramonteiro/) <br/>
+<img width=17 height=17 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> [beatrizalcantara813@gmail.com
+](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=SxfkdpPhzHShclwHWXgbJnHHZXrTdVMbBtSKZbkXTmJJqDCHQqxTtDFVvPkxlwTfMrVtHSFXxSFzWjjmmnkZQqqNhFCTmdNCzTWsXTjfmzdhDDkgBcg)
